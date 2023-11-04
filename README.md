@@ -1,10 +1,10 @@
 ![Banner](https://raw.githubusercontent.com/mrylprz/portfolio/main/Project%20Covers/portfolio-temporary-banner.png)
 
-# Hello World!
+## Hello World!
 
 I'm **Meryl Perez**, a data sorceress, on a quest to turn every dataset into a compelling story.
 
-# My Data Journey:
+## My Data Journey:
 
 I took up electronics engineering for my bachelor’s degree. In my first job after graduation, I became a planning engineer. Instead of configuring devices and visiting cellsites, I am bound to my desk crunching numbers, and making sense out of data for strategic and competitive advantage. Here is where I met my long-time bestfriends, Excel, Tableau, PowerBI, Microsoft Access, and SQL. I also used to teach basic Python programming. I left the Philippines for an adventure to the land down under (Australia) where I pursued my master’s degree in business analytics. This education broaden my perspective in different industries.
 
